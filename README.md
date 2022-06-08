@@ -1,10 +1,10 @@
-# Views_dan_ViewGroup
+# Views_dan_ViewGroup & Style dan Theme
 
 Learn From Platform: Dicoding
 
 Class: Belajar Membuat Aplikasi Android untuk Pemula
 
-Bab: Style dan Theme
+Bab: Views_dan_ViewGroup & Style dan Theme
 
 - colorPrimary : warna utama aplikasi yang tampil pada Action Bar dan komponen Button.
 - colorPrimaryVariant : variasi dari warna utama yang biasanya digunakan pada Status Bar.
