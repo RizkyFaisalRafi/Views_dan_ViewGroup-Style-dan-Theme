@@ -15,4 +15,7 @@ Bab: Views_dan_ViewGroup & Style dan Theme
 - android:statusBarColor : warna yang digunakan untuk status bar.
 ![image](https://user-images.githubusercontent.com/87520408/172552339-2782d49e-e570-47dc-9119-29f0f0b3cf2c.png)
 
+Tampilan GIF(Gambar Bergerak):
+https://d17ivq9b7rppb3.cloudfront.net/original/academy/2020100110372954e9809cd47188bd28c0834a20a7de3f.gif
+
 ![image](https://user-images.githubusercontent.com/87520408/173191978-b3d3085c-3050-425d-9a24-a5e949a979e6.png)
