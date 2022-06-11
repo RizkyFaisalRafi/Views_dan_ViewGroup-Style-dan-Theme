@@ -14,3 +14,5 @@ Bab: Views_dan_ViewGroup & Style dan Theme
 - colorOnSecondary : warna yang digunakan ketika ada teks/icon di atas warna sekunder.
 - android:statusBarColor : warna yang digunakan untuk status bar.
 ![image](https://user-images.githubusercontent.com/87520408/172552339-2782d49e-e570-47dc-9119-29f0f0b3cf2c.png)
+
+![image](https://user-images.githubusercontent.com/87520408/173191978-b3d3085c-3050-425d-9a24-a5e949a979e6.png)
